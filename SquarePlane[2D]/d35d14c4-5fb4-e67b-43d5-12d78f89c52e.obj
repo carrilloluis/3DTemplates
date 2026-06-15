@@ -1,0 +1,16 @@
+# Square/Plane [2D] subdivided for academic et testing purpose
+# by Luis Carrillo Gutiérrez
+o SquareDivided02
+v -1 0 1
+v -1 0 0
+v -1 0 -1
+v 0 0 -1
+v 1 0 -1
+v 1 0 0
+v 1 0 1
+v 0 0 1
+f 2 4 6 8
+f 1 2 8 1
+f 3 4 2 3
+f 5 6 4 3
+f 7 8 6 7
