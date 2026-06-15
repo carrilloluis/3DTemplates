@@ -1,0 +1,8 @@
+# Square/Plane [2D] for academic et testing purpose
+# by Luis Carrillo Gutiérrez
+o Square01
+v -1 0 1
+v -1 0 -1
+v 1 0 -1
+v 1 0 1
+f 1 2 3 4
