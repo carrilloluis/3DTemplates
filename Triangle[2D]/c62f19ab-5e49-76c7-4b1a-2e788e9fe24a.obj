@@ -1,0 +1,13 @@
+# Triangle/Equilateral with Quads [2D] for academic et testing purpose
+# by Luis Carrillo Gutiérrez
+o EquilateralTriangle02
+v 0 0 0
+v 0 0 2
+v -.86602 0 .5
+v -1.73205 0 -1
+v 0 0 -1
+v 1.73205 0 -1
+v .86602 0 .5
+f 1 7 2 3
+f 1 3 4 5
+f 1 5 6 7

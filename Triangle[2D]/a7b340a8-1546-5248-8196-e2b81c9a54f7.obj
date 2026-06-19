@@ -1,0 +1,13 @@
+# Triangle/Rect+Isosceles with Quads [2D] for academic et testing purpose
+# by Luis Carrillo Gutiérrez
+o RectTriangle01
+v 0 0 0
+v 0 0 1
+v 0 0 3.0
+v 1.5 0 1.5
+v 3 0 0
+v 1 0 0
+v 1 0 1
+f 1 6 7 2
+f 2 7 4 3
+f 7 6 5 4
